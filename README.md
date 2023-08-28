@@ -6,6 +6,10 @@
 |  __/| | | (_) | |\  |  __/  __/ |_) |
 |_|   |_|  \___/|_| \_|\___|\___|_.__/
 ```
+
+Muneeb Abid<br>
+R&D Engineer (Embedded Systems)<br>
+ResTech Pty. Ltd.<br>
 <!--
 **proneeb/proneeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
