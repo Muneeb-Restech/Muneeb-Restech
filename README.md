@@ -1,4 +1,4 @@
-### A professional github workspace for Muneeb
+### A Github account to work on ResTech and Ampcontrol projects.
 ```
  __  __                       _
 |  \/  |_   _ _ __   ___  ___| |__
